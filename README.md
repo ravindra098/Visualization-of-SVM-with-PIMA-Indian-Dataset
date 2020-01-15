@@ -1,6 +1,6 @@
 # Visualization-of-SVM-with-PIMA-Indian-Dataset
 
-#### With the help of SVM(Support Vector Machine) I have trained the SVC(Support Vector Classifier) on Pima Indians Diabetes Dataset
+#### With the help of SVM(Support Vector Machine) I have trained the SVC(Support Vector Classifier) on PIMA Indians Diabetes Dataset
 
 #### About the Dataset: The given dataset is a collection of SVM's measurements for 768 women of the PIMA Indian Heritage and their diagonosis of diabeetes. There are 8 clinical measurements or features out of which I have focused on 2 features i.e. Blood Glucose and BMI(Body Mass Index) where:
                           Blood Glucose: min = 0, max = 199, mean = 120.89
@@ -14,7 +14,7 @@
                           Mean Accuracy on Train Data: 0.760
                           Mean Accuracy on Test Data: 0.770
                           
-#### IMplementation of SVM on RBF Kernel
+#### Implementation of SVM on RBF Kernel
                           Mean Accuracy on Train Data: 0.764
                           Mean Accuracy on Test Data: 0.765
                           
